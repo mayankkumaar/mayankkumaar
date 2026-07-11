@@ -28,26 +28,39 @@
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:**<br/>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <th align="center"><b>👨‍💻 Programming Languages</b></th>
+      <th align="center"><b>🧠 AI & Data Science</b></th>
+      <th align="center"><b>☁️ Tools & Platforms</b></th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/><br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><br/>
+        <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /><br/><br/>
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br/><br/>
+        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><br/><br/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /><br/><br/>
+        <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/><br/>
+        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/><br/>
+        <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br/><br/>
+        <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br/><br/>
+        <img src="https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Libraries & Frameworks:**<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Tools & Platforms:**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+---
 
 ## 🚀 Featured Projects
 
@@ -55,16 +68,3 @@
 - 🕵️ **PixelTrace**: AI-Powered Forensic Watermarking for Live Sports Streaming Piracy Detection, resilient to compression and noise. *(FastAPI, OpenCV, Google Cloud, Streamlit)*
 - 🎭 **RakshaNet**: An AI-Based Deepfake Detection System utilizing a CNN-based model for identifying manipulated media. *(TensorFlow/PyTorch, React Native, OpenCV)*
 - 🤖 **AI Agents & Chatbots**: Developed Rule-Based Chatbots, Recommendation Systems, and an intelligent Tic-Tac-Toe AI Agent during my tenure at Codsoft.
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankkumaar&show_icons=true&theme=tokyonight" alt="Mayank's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkumaar&theme=tokyonight" alt="Mayank's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkumaar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
