@@ -19,8 +19,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Currently pursuing a **Bachelor of Engineering in Artificial Intelligence and Machine Learning** at **RNS Institute of Technology** (2023 - 2027), with a GPA of 8.65.
 - 🚀 Exploring the realms of **Machine Learning**, **Data Science**, and **Web Development**.
 - 💡 Solved **150+ DSA problems** across LeetCode and Codeforces.
 - 📝 Co-authored a research paper: *"Random Forest and XGBoost-Based Health Monitoring System for Disease Risk Prediction Using Climatic Indicators"* (To be published in Feb 2027 by Springer) & Accepted for presentation at **ICTIS 2026**.
